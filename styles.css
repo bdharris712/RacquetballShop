@@ -1,0 +1,13 @@
+body {
+    padding:40px;
+}
+.hero-unit {
+    height:900px;
+}
+.carousel-item-primary {
+    background:url("images/thomas-park-P9y0G14Z7wA-unsplash.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position-y:bottom;
+    height:400px;
+}
